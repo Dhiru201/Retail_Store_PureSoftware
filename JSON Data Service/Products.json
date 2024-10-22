@@ -1,0 +1,13 @@
+
+[
+    {"id": "1", "name": "Mobile Phone", "price": 240.20, "productImage": "https://images.pexels.com/photos/248528/pexels-photo-248528.jpeg?b&w=300", "category": "Electronics" },
+    {"id": "2", "name": "Mac Book Pro 2", "price": 120.20, "productImage": "https://images.pexels.com/photos/4050325/pexels-photo-4050325.jpeg?b&w=300", "category": "Electronics" },
+    {"id": "3",  "name": "apple watch", "price": 130.25, "productImage": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?b&w=300", "category": "Electronics" },
+    {"id": "4", "name": "Earbuds", "price": 140.90, "productImage": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?b&w=300", "category": "Electronics" },
+    {"id": "5", "name": "Digital Camera", "price": 150.99, "productImage": "https://images.pexels.com/photos/1528851/pexels-photo-1528851.jpeg?b&w=300", "category": "Electronics" },
+    {"id": "6", "name": "Chair", "price": 109.80, "productImage": "https://images.pexels.com/photos/2762247/pexels-photo-2762247.jpeg?b&w=300", "category": "Furniture" },
+    {"id": "7", "name": "Bed", "price": 119.60, "productImage": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?b&w=300", "category": "Furniture" },
+    {"id": "8", "name": "Sofa", "price": 130.90, "productImage": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?b&w=300", "category": "Furniture" },
+    {"id": "9", "name": "Table", "price": 130.00, "productImage": "https://images.pexels.com/photos/2451264/pexels-photo-2451264.jpeg?b&w=300", "category": "Furniture" },
+    {"id": "10", "name": "Dining Table", "price": 190.00, "productImage": "https://images.pexels.com/photos/534172/pexels-photo-534172.jpeg?b&w=300", "category": "Furniture" }
+]
